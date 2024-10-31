@@ -1,7 +1,8 @@
 ## Portfolio
 
 ---
-### Resume
+### Education
+- MASc Software Engineering University of Waterloo
 
 ---
 ### Category Name 1 
