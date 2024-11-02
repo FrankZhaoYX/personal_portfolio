@@ -5,11 +5,11 @@
 - **University of Waterloo**  
   *M.ASc. in Software Engineering*  
   *2023 – 2025*  
-  Coursework: Software Testing, Software Mining/Analysis, Software Refactoring.
+  Coursework: Software Testing, Software Analysis, Software Refactoring.
 - **York University**  
   *B.S. in Computer Science*  
   *2016 – 2022*  
-  Coursework: Software Design, Database system, Mobile development.
+  Coursework: Software Design, Database system, Mobile develop.
 
 ---
 ### Category Name 1 
