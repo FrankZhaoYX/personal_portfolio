@@ -29,30 +29,30 @@
         # print(director_set)
         self.directors.append(director_set)
 ```
-- **Requests** – Used to retrieve webpage data for each specified year, with error handling implemented to manage potential exceptions.```javascript
+- **Requests** – Utilized for retrieving webpage data for each specified year, with robust error handling to manage potential exceptions such as HTTP errors, connection issues, and timeouts. The `bs4_parser` function below demonstrates this setup, where requests are made, errors are logged, and successful responses are parsed with BeautifulSoup:
 
+    ```python
     def bs4_parser(self, url):
         try:
             # Make the GET request
             response = requests.get(url, headers=self.headers)
-
-            # Raise an exception for HTTP errors
-            response.raise_for_status()  # This will raise an HTTPError for bad responses (4xx, 5xx)
-
+            response.raise_for_status()  # Raises an HTTPError for bad responses (4xx, 5xx)
+            
             # Process the response
             logging.info("Request was successful!")
             return BeautifulSoup(response.text, 'html.parser')
                     
         except requests.exceptions.HTTPError as http_err:
-            logging.critical("HTTP error occurred: {}".format(http_err))  # e.g., 404 or 500 error
+            logging.critical(f"HTTP error occurred: {http_err}")  # e.g., 404 or 500 error
         except requests.exceptions.ConnectionError:
             logging.critical("Connection error occurred. Please check your network.")
         except requests.exceptions.Timeout:
             logging.critical("The request timed out.")
         except requests.exceptions.RequestException as err:
-            logging.critical("An error occurred: {}".format(err))
+            logging.critical(f"An error occurred: {err}")
 
-```
+        return None  # Return None if request fails
+    ```
 
 
 
