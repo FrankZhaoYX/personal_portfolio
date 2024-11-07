@@ -12,18 +12,26 @@
   Coursework: Software Design, Database system, Mobile develop.
 
 ---
-### Category Name 1 
+### Data Engineer Projects
+**Description:** This catalog showcases practical data engineering projects, including data mining, deploying data pipelines, and data analytics. Each project demonstrates real-world applications of data engineering principles and tools.
+- [IMDB_Analytic](https://github.com/FrankZhaoYX/imdb_analytic)
+  <img src="/images/imdb_analytic.jpg?raw=true"/>
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 
-[Imdb_analytic](/imdb_analytic_page)
+
+<!-- [Data Engineer related](/data_engineer_related_page)
 <img src="/images/imdb_analytic.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Python Focused](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Thesis progression](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
