@@ -12,6 +12,10 @@
   Coursework: Software Design, Database system, Mobile develop.
 
 ---
+### Resume (resume/Frank_s_Resume_10.pdf)
+<img src="resume/Frank_s_Resume_10.jpg?raw=true"/>(resume/Frank_s_Resume_10.pdf)
+
+---
 ### Data Engineer Projects
 **Description:** This catalog showcases practical data engineering projects, including data mining, deploying data pipelines, and data analytics. Each project demonstrates real-world applications of data engineering principles and tools.
 - [IMDB_Analytic](https://github.com/FrankZhaoYX/imdb_analytic)
