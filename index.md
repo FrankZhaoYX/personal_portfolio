@@ -12,8 +12,11 @@
   Coursework: Software Design, Database system, Mobile develop.
 
 ---
-### Resume (resume/Frank_s_Resume_10.pdf)
-<img src="resume/Frank_s_Resume_10.jpg?raw=true"/>(resume/Frank_s_Resume_10.pdf)
+### [Resume](resume/Frank_s_Resume_10.pdf)
+
+[![Resume Preview](resume/Frank_s_Resume_10.jpg?raw=true)](resume/Frank_s_Resume_10.pdf)
+
+[Download Full Details](resume/Frank_s_Resume_10.pdf)
 
 ---
 ### Data Engineer Projects
