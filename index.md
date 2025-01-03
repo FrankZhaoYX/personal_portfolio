@@ -23,10 +23,10 @@
 **Description:** This catalog showcases practical data engineering projects, including data mining, deploying data pipelines, and data analytics. Each project demonstrates real-world applications of data engineering principles and tools.
 - [IMDB_Analytic](https://github.com/FrankZhaoYX/imdb_analytic)
   <img src="/images/imdb_analytic.jpg?raw=true"/>
-- [Project 2 Title](http://example.com/)
+<!-- - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 5 Title](http://example.com/) -->
 
 
 <!-- [Data Engineer related](/data_engineer_related_page)
@@ -42,13 +42,13 @@
 
 ---
 
-### Category Name 2
+<!-- ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 5 Title](http://example.com/) -->
 
 ---
 
